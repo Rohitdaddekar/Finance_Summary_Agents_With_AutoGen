@@ -1,0 +1,6 @@
+faker
+pandas
+groq
+python-dotenv
+autogen-agentchat~=0.2
+streamlit
