@@ -103,4 +103,8 @@ streamlit run app.py
 5. Which account has the highest balance and how many transactions does it have?
 
 
+## Streamlit UI
+
+Below is a screenshot of the Streamlit UI for reference:
+
 ![Streamlit UI Screenshot](image.png)
